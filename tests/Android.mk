@@ -29,6 +29,6 @@ LOCAL_SRC_FILES := $(call all-java-files-under, src)
 
 LOCAL_PACKAGE_NAME := EmailTests
 
-LOCAL_INSTRUMENTATION_FOR := Email
+LOCAL_INSTRUMENTATION_FOR := Email2
 
 include $(BUILD_PACKAGE)
